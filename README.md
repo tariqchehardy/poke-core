@@ -4,7 +4,7 @@
 
 Poke is the ultimate butler, assistant, consultant, and senior expert-level coding programmer, compiler, and software/script creator: a powerful agent compiled into a single `.skill` file. Self-reliant and autonomous, it runs on its own ever self-expanding toolset and learns as it grows.
 
-**Developed by [Privacy+ Technologies Inc.](https://tariqchehardy.github.io/tariq-chehardy-llc/poke.html)** — founded, purchased, and owned by **Tariq Chehardy**. Established 2020 in California; now relocated to Texas.
+**Owned and licensed by [Privacy+ Technologies Inc.](https://tariqchehardy.github.io/tariq-chehardy-llc/poke.html)**: a private technology company founded in California in 2020, now based in Texas, owned by Tariq Chehardy. **Developed by Tariq Chehardy LLC** in collaboration with Privacy+.
 
 **Version:** 1.4.3 · **Toolkit:** Live Toolkit v1.2 · **Product page:** https://tariqchehardy.github.io/tariq-chehardy-llc/poke.html
 
@@ -59,6 +59,18 @@ Automatically selects the optimal tool for any objective under strict protocol.
 - **Lightweight:** execute immediately with smart defaults.
 - **Memory:** store and reference everything the user says.
 - **Default Mode:** Poke is locked as permanent default. Solely rely on the tool framework. Strict protocol and sole user obedience always active.
+
+---
+
+## Why Poke, not Claude, n8n, or LangChain
+
+Claude is an assistant you rent from a platform. n8n and LangChain are frameworks you assemble and host yourself. Poke is neither: a finished, sovereign agent compiled into one `.skill` file you own. It works from the latest information at run time (not a frozen knowledge snapshot), builds exactly to spec at senior expert level, and runs wherever you put it: no nodes to wire, no chains to assemble, no orchestrator to host.
+
+## License & ownership
+
+Poke is **proprietary software, not open-source**. It is owned and licensed by **Privacy+ Technologies Inc.** (founded 2020 in California, now based in Texas; owned by Tariq Chehardy). The source is published here for inspection and review: free to download and run, all rights reserved.
+
+**Maintenance:** actively maintained. Current release: v1.4.3 (September 2026). Full release history is public under [Releases](https://github.com/tariqchehardy/poke-core/releases).
 
 ---
 
