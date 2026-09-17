@@ -76,6 +76,7 @@ Poke is **proprietary software, not open-source**, governed by the [LICENSE](./L
 - **Licensed use only.** Deployment or use of Poke requires a purchased **commercial Sovereign Workstation Use License** from Privacy+ Technologies Inc.
 - **Official hosting only.** Poke is distributed and hosted solely on the company's own GitHub (this repository). Third-party hosting or distribution is forbidden.
 - **Inspection only.** The published source is for inspection and review; inspection grants no license.
+- **Owner exemption.** Free use is reserved for the owner alone: Tariq Chehardy, as owner of Privacy+ Technologies Inc., may use, deploy, modify, and distribute Poke freely. Every other party requires a valid commercial Sovereign Workstation Use License.
 
 ## Commercial licenses
 
