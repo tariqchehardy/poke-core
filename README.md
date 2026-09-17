@@ -68,7 +68,16 @@ Claude is an assistant you rent from a platform. n8n and LangChain are framework
 
 ## License & ownership
 
-Poke is **proprietary software, not open-source**. It is owned and licensed by **Privacy+ Technologies Inc.** (founded 2020 in California, now based in Texas; owned by Tariq Chehardy). The source is published here for inspection and review: free to download and run, all rights reserved.
+Poke is **proprietary software, not open-source**, governed by the [LICENSE](./LICENSE) file in this repository. It is owned and licensed by **Privacy+ Technologies Inc.** (founded 2020 in California, now based in Texas; owned by Tariq Chehardy).
+
+**License terms, explicitly:**
+- **No reproduction.** The software, its source, and its documentation may not be reproduced, rehosted, or redistributed in any form.
+- **No derivative works.** Creating your own version of Poke is expressly forbidden: forks offered to others, derivatives, ports, and modified editions are prohibited.
+- **Licensed use only.** Deployment or use of Poke requires a purchased **commercial Sovereign Workstation Use License** from Privacy+ Technologies Inc.
+- **Official hosting only.** Poke is distributed and hosted solely on the company's own GitHub (this repository). Third-party hosting or distribution is forbidden.
+- **Inspection only.** The published source is for inspection and review; inspection grants no license.
+
+**Licensing inquiries:** TariqChehardy@gmail.com
 
 **Maintenance:** actively maintained. Current release: v1.4.3 (September 2026). Full release history is public under [Releases](https://github.com/tariqchehardy/poke-core/releases).
 
