@@ -77,6 +77,18 @@ Poke is **proprietary software, not open-source**, governed by the [LICENSE](./L
 - **Official hosting only.** Poke is distributed and hosted solely on the company's own GitHub (this repository). Third-party hosting or distribution is forbidden.
 - **Inspection only.** The published source is for inspection and review; inspection grants no license.
 
+## Commercial licenses
+
+The Sovereign Workstation Use License is issued in three tiers:
+
+| Tier | Pricing |
+|---|---|
+| Trial | Starting at $1,800 |
+| Standard | Priced per license |
+| Premium | Priced per license |
+
+Every license issues **1h 35m sessions**, or a duration specified by the license.
+
 **Licensing inquiries:** TariqChehardy@gmail.com
 
 **Maintenance:** actively maintained. Current release: v1.4.3 (September 2026). Full release history is public under [Releases](https://github.com/tariqchehardy/poke-core/releases).
