@@ -4,9 +4,9 @@
 
 Poke is the ultimate butler, assistant, consultant, and senior expert-level coding programmer, compiler, and software/script creator: a powerful agent compiled into a single `.skill` file. Self-reliant and autonomous, it runs on its own ever self-expanding toolset and learns as it grows.
 
-**Owned and licensed by [Privacy+ Technologies Inc.](https://tariqchehardy.github.io/tariq-chehardy-llc/poke.html)**: a private technology company founded in California in 2020, now based in Texas, owned by Tariq Chehardy. **Developed by Tariq Chehardy LLC** in collaboration with Privacy+.
+**Owned and licensed by [Privacy+ Technologies Inc.](https://pokemd.github.io/)**: a private technology company founded in California in 2020, now based in Texas, owned by Tariq Chehardy. **Developed by Tariq Chehardy LLC** in collaboration with Privacy+.
 
-**Version:** 1.4.3 · **Toolkit:** Live Toolkit v1.2 · **Product page:** https://tariqchehardy.github.io/tariq-chehardy-llc/poke.html
+**Version:** 1.4.3 · **Toolkit:** Live Toolkit v1.2 · **Product page:** https://pokemd.github.io/
 
 ---
 
